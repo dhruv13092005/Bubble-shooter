@@ -93,7 +93,7 @@ function displayText(){
     textSize(30);
      text("Game Over!", 120, 200);
     textSize(20);
-    text(" Final Score: " + score + "\nHit R to restart", 130, 230);
+    text(" Final Score: " + score + "\Press space to restart", 130, 230);
   }
 }
 
